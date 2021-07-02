@@ -1,9 +1,9 @@
 <div class="row">
-    <div class="col-12 col-md-6 col-xl-3">
+    <div class="col-md-4">
         <div class="card card-border-primary">
             <div class="card-header">
                 <div class="card-actions float-right">
-                    <div class="dropdown show">
+                    <!-- <div class="dropdown show">
                         <a href="#" data-toggle="dropdown" data-display="static">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-more-horizontal align-middle">
                                 <circle cx="12" cy="12" r="1"></circle>
@@ -17,9 +17,9 @@
                             <a class="dropdown-item" href="#">Another action</a>
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
-                <h5 class="card-title">Upcoming</h5>
+                <h5 class="card-title">Todo</h5>
                 <h6 class="card-subtitle text-muted">Nam pretium turpis et arcu. Duis arcu tortor.</h6>
             </div>
             <div class="card-body p-3">
@@ -106,11 +106,11 @@
         </div>
     </div>
 
-    <div class="col-12 col-md-6 col-xl-3">
+    <div class="col-md-4">
         <div class="card card-border-warning">
             <div class="card-header">
                 <div class="card-actions float-right">
-                    <div class="dropdown show">
+                    <!-- <div class="dropdown show">
                         <a href="#" data-toggle="dropdown" data-display="static">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-more-horizontal align-middle">
                                 <circle cx="12" cy="12" r="1"></circle>
@@ -124,7 +124,7 @@
                             <a class="dropdown-item" href="#">Another action</a>
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <h5 class="card-title">In Progress</h5>
                 <h6 class="card-subtitle text-muted">Nam pretium turpis et arcu. Duis arcu tortor.</h6>
@@ -196,7 +196,7 @@
 
             </div>
         </div>
-    </div> -->
+    </div>
 
     <!-- <div class="col-12 col-lg-6 col-xl-3">
         <div class="card card-border-danger">
@@ -275,11 +275,11 @@
         </div>
     </div>  -->
 
-    <div class="col-12 col-md-6 col-xl-3">
+    <div class="col-md-4">
         <div class="card card-border-success">
             <div class="card-header">
                 <div class="card-actions float-right">
-                    <div class="dropdown show">
+                    <!-- <div class="dropdown show">
                         <a href="#" data-toggle="dropdown" data-display="static">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-more-horizontal align-middle">
                                 <circle cx="12" cy="12" r="1"></circle>
@@ -293,7 +293,7 @@
                             <a class="dropdown-item" href="#">Another action</a>
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <h5 class="card-title">Complete</h5>
                 <h6 class="card-subtitle text-muted">Nam pretium turpis et arcu. Duis arcu tortor.</h6>
