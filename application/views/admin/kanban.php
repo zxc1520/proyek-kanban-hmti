@@ -1,5 +1,5 @@
 <div class="row">
-    <!-- <div class="col-12 col-lg-6 col-xl-3">
+    <div class="col-12 col-md-6 col-xl-3">
         <div class="card card-border-primary">
             <div class="card-header">
                 <div class="card-actions float-right">
@@ -104,9 +104,9 @@
 
             </div>
         </div>
-    </div> -->
+    </div>
 
-    <!-- <div class="col-12 col-lg-6 col-xl-3">
+    <div class="col-12 col-md-6 col-xl-3">
         <div class="card card-border-warning">
             <div class="card-header">
                 <div class="card-actions float-right">
@@ -271,11 +271,11 @@
 
                 <a href="#" class="btn btn-primary btn-block">Add new</a>
 
-            </div>
+            </div> 
         </div>
-    </div> -->
+    </div>  -->
 
-    <!-- <div class="col-12 col-lg-6 col-xl-3">
+    <div class="col-12 col-md-6 col-xl-3">
         <div class="card card-border-success">
             <div class="card-header">
                 <div class="card-actions float-right">
@@ -363,7 +363,7 @@
                 <a href="#" class="btn btn-primary btn-block">Add new</a>
             </div>
         </div>
-    </div> -->
+    </div>
     <div class="col-lg-18">
     
     </div>
